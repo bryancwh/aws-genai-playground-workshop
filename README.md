@@ -1,16 +1,16 @@
 # AWS GenAI Playground Hands-on
 
-Welcome to the xxx Workshop! This guide will walk you through the basics of using the AWS GenAI Playground. This workshop makes it easy for you to start experimenting with a variety of Large Language Models and Multimodal Language Models, settings and prompts.
+Welcome to the AWS GenAI Playground Workshop! This guide will walk you through the basics of using the AWS GenAI Playground. The workshop makes it easy for you to start experimenting with a variety of Large Language Models and Multimodal Language Models, settings and prompts.
 
 Specifically, this workshop will cover:
-- Creating a Retrieval-Augmented Generation workspace
-- Uploading files and web crawling for indexing and storage in one of the vector engines
-- Sending queries to separate models at once and see how each one responds based on its own learned history, context and access to the same powerful document retriever, so all requests can pull from the same up-to-date knowledge.
+- Creating a Retrieval-Augmented Generation (RAG) workspace
+- Uploading files and web crawling for indexing and storage in any one of the 3 vector engines (OpenSearch Serverless, Aurora, Kendra)
+- Sending queries to separate models at once to see how each one responds based on its own learned history, context and access to the same powerful document retriever, so all requests can pull from the same up-to-date knowledge.
 
 ## Prerequisites
 
 Ensure you have the following before embarking on this workshop:
-- A AWS GenAI Playground account
+- An AWS GenAI Playground account
 
 ## Lab 1: RAG with Amazon OpenSearch Serverless
 
