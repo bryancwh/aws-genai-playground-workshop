@@ -48,7 +48,7 @@ https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-reso
 
 9. Select up to 3 of your preferred Foundation Models (FMs). **Select the OpenSearch Serverless workspace you have just created**
 
-10. Generate a course outline for module on Carbon Footprint Management. Hint: You may use 
+10. Generate a course outline for module on Carbon Footprint Management.
 
 <details><summary>Show Hint</summary>
 <p>
@@ -58,6 +58,7 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 ```
 </p>
 </details>
+
 
 ![image](./media/image7.png)
 
@@ -97,7 +98,9 @@ You are a Professor in a University's Department of Analytics & Operations, skil
 </p>
 </details>
 
+
 ![image](./media/image11.png)
+
 
 10. You may generate an assessment of the rubrics with the following
 
