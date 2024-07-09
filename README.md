@@ -84,7 +84,7 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 9. Generate a rubrics for the course on "Programming for Business Analytics". Hint: You may use 
 
 ```
-You are a Professor in a University's Department of Analytics & Operations, skilled in assessing student work. Create a rubric grading a DAO2702 Programming for Business Analytics class. For more context this is a module titled “Programming for Business Analytics” based on the document “DAO2702.pdf”. In preparation for the final exam, Format the rubric as a chart and include a rating scale of 1-5.
+You are a Professor in a University's Department of Analytics & Operations, skilled in assessing student work. Create a rubric grading a DAO2702 Programming for Business Analytics class. For more context this is a module titled “Programming for Business Analytics” based on the document DAO2702.pdf. In preparation for the final exam, Format the rubric as a chart and include a rating scale of 1-5.
 ```
 
 ![image](./media/image11.png)
