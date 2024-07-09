@@ -48,7 +48,7 @@ https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-reso
 
 9. Select up to 3 of your preferred Foundation Models (FMs). **Select the OpenSearch Serverless workspace you have just created**
 
-10. Generate a course outline for module on Carbon Footprint Management.
+10. Test out your prompt engineering skills! Generate a course outline for module on Carbon Footprint Management.
 
 <details><summary>Show Hint</summary>
 <p>
@@ -87,7 +87,7 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 
 8. Select up to 3 of your preferred Foundation Models (FMs). **Select the Amazon Kendra workspace you have just created**
 
-9. Generate a rubrics for the course on "Programming for Business Analytics".
+9. Test out your prompt engineering skills! Generate a rubrics for the course on "Programming for Business Analytics".
 
 <details><summary>Show Hint</summary>
 <p>
