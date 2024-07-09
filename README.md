@@ -69,7 +69,7 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 
 4. Click **Dashboard** in **Retrieval-Augmented Generation (RAG)** section. On the top right, **Add data** and select **Upload files**
 
-5. Upload your PDF files. **Select the Kendra workspace you have just created**, upload your file from local and select **Upload files**
+5. Download the [DAO2702.pdf](/DAO2702.pdf) file and upload it to the Playground. **Select the Kendra workspace you have just created**, upload your file from local and select **Upload files**
 
 ![image](./media/image9.png)
 
@@ -81,10 +81,10 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 
 8. Select up to 3 of your preferred Foundation Models (FMs). **Select the Amazon Kendra workspace you have just created**
 
-9. Generate a rubrics for the course on Computer Science and Design. Hint: You may use 
+9. Generate a rubrics for the course on "Programming for Business Analytics". Hint: You may use 
 
 ```
-You are a university Lecturer in SUTD skilled in assessing student work. Create a rubric grading for Computer Science and Design class. Your students will be doing a course “Computer Science and Design” based on the document “CSD.pdf” in preparation for the final exam, Format the rubric as a chart and include a rating scale of 1-5.
+You are a Professor in a University's Department of Analytics & Operations, skilled in assessing student work. Create a rubric grading a DAO2702 Programming for Business Analytics class. For more context this is a module titled “Programming for Business Analytics” based on the document “DAO2702.pdf”. In preparation for the final exam, Format the rubric as a chart and include a rating scale of 1-5.
 ```
 
 ![image](./media/image11.png)
