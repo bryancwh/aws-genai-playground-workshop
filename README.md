@@ -50,9 +50,14 @@ https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-reso
 
 10. Generate a course outline for module on Carbon Footprint Management. Hint: You may use 
 
+<details><summary>Show Hint</summary>
+<p>
+
 ```
 You are a curriculum manager in one of the IHLs in Singapore. Your task is to generate a course outline for Carbon Footprint Management based on Singapore Green Plan Initiatives. 
 ```
+</p>
+</details>
 
 ![image](./media/image7.png)
 
@@ -81,11 +86,16 @@ You are a curriculum manager in one of the IHLs in Singapore. Your task is to ge
 
 8. Select up to 3 of your preferred Foundation Models (FMs). **Select the Amazon Kendra workspace you have just created**
 
-9. Generate a rubrics for the course on "Programming for Business Analytics". Hint: You may use 
+9. Generate a rubrics for the course on "Programming for Business Analytics".
+
+<details><summary>Show Hint</summary>
+<p>
 
 ```
 You are a Professor in a University's Department of Analytics & Operations, skilled in assessing student work. Create a rubric grading a DAO2702 Programming for Business Analytics class. For more context this is a module titled “Programming for Business Analytics” based on the document DAO2702.pdf. In preparation for the final exam, Format the rubric as a chart and include a rating scale of 1-5.
 ```
+</p>
+</details>
 
 ![image](./media/image11.png)
 
